@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tips>
+  <tip link="/contents/shortcuts">
+    <text>You can use Ctrl-1, Ctrl-2, etc. to save the current selection which can be recalled by pressing 1, 2, etc.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>You could select units of two or more types in a townhall by holding Shift and clicking on their group icons.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>You could select one unit from a group of units in a townhall by holding Ctrl and clicking on the group icon.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>You could attach units to a hero in a townhall by holding Shift, selecting some units and right-clicking on the hero icon.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>Pressing F1 during the game opens a window with comprehensive help.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>You can cycle through the heroes you can control with the mouse wheel.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>Pressing F1 during the game opens a window with comprehensive help.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>You can send messages to other players in a multiplayer game by pressing Enter.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>During an adventure you can see your mission objectives by pressing F8.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>Rightclick orders the selected warriors to perform the default action on the target.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>Ctrl-rightclick on the ground orders your army to advance to that position attacking everyone in the way.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>Pressing Ctrl-rightclick on an enemy warrior instructs your units to attack warriors of that type.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>During a strategic game you may press / to see the game time and a list of all players.</text>
+  </tip>
+  <tip link="/contents/shortcuts">
+    <text>Pressing ` toggles the display of unit health bars. Ctrl-` toggles between a few healt bar modes.</text>
+  </tip>
+  <tip link="/contents/map">
+    <text>Pressing Space toggles a very detailed map of the area.</text>
+  </tip>
+  <tip link="/contents/capturing">
+    <text>Capturing an undefended enemy building is as easy as selecting a few units and right-clicking on it.</text>
+  </tip>
+  <tip link="/contents/stats/level">
+    <text>The level of the selected unit is displayed at the top of the screen after the "L" icon.</text>
+  </tip>
+  <tip link="/contents/stats/level">
+    <text>With each level warriors gain 5 health in addition to their attack and defense bonuses.</text>
+  </tip>
+  <tip link="/contents/stats/level">
+    <text>Warriors change color as they gain levels. Beware of golden enemies!</text>
+  </tip>
+  <tip link="/contents/buildings/Ruins">
+    <text>Only a hero with a sufficient level can get an item from the ruins.</text>
+  </tip>
+  <tip link="/contents/items">
+    <text>With the Finger of Death item you can kill up to 18 enemies. And it's not even the most powerful item in the game.</text>
+  </tip>
+  <tip link="/contents/buildings/stonehenge">
+    <text>A Death Wish ritual performed at a Stonehenge kills every single Druid, Priest, Enchantress and Shaman on the map.</text>
+  </tip>
+  <tip link="/contents/buildings/stonehenge">
+    <text>A Starvation ritual performed at a Stonehenge causes all food on the map to decay.</text>
+  </tip>
+  <tip link="/contents/feeding">
+    <text>Warriors need food in order to heal themselves. They lose health while starving.</text>
+  </tip>
+  <tip link="/contents/units/GCatapult">
+    <text>Regular warriors can build catapults to siege enemy strongholds and outposts.</text>
+  </tip>
+  <tip link="/contents/specials">
+    <text>Woman Warriors can kill a warrior with a single attack if the warrior has less than 40% health. This special ability is called "Death blow".</text>
+  </tip>
+  <tip link="/contents/specials">
+    <text>Most warriors on horse charge the enemies and do 8 times their normal damage with their first strike.</text>
+  </tip>
+  <tip link="/contents/specials">
+    <text>Some warriors have the "Deflection" special ability which allows them to avoids enemy attacks as long as they have enough stamina.</text>
+  </tip>
+  <tip link="/contents/units/GVikingLord">
+    <text>Viking lords gain health every time they hit an enemy. Sometimes, a single Viking lord can wipe out a whole army.</text>
+  </tip>
+  <tip link="/contents/capturing">
+    <text>If your army encounters an unguarded enemy mule you can capture it by right-clicking on it.</text>
+  </tip>
+  <tip link="/contents/buildings/TTent">
+    <text>You can capture a Teuton Tent by killing all Teutons around it. The new Teutons that appear will be yours to command.</text>
+  </tip>
+  <tip link="/contents/buildings">
+    <text>If a stronghold building becomes destroyed you have to pay for it to be repaired before it becomes functional.</text>
+  </tip>
+  <tip link="/contents/buildings/GOutpost">
+    <text>There is a command in the Trade outpost which starts selling the food stored there.</text>
+  </tip>
+  <tip link="/contents/buildings/ROutpost">
+    <text>Put 2000 gold in a Stone outpost and watch your gold increase.</text>
+  </tip>
+  <tip link="/contents/buildings/IOutpost">
+    <text>The longer a warrior spends in a Training camp the more experience he receives.</text>
+  </tip>
+  <tip link="/contents/buildings/COutpost">
+    <text>Villagers that remain in a Fort are soon trained into fearsome Macemen.</text>
+  </tip>
+  <tip link="/contents/GOutpost">
+    <text>You can order your villages and outposts to send resources to your townhall automatically.</text>
+  </tip>
+  <tip link="/contents/heroes">
+    <text>Each heroes has 5 special abilities (you can spend up to 10 points for each ability) that can be used against your enemies.</text>
+  </tip>
+  <tip link="/contents/stats/stamina">
+    <text>Each unit has 10 stamina which allow them to use their special abilities. When your units use up all their stamina, they must wait for it to regenerate.</text>
+  </tip>
+  <tip link="/contents/heroes">
+    <text>Each heroes can use the special ability Divine Grace which allows them to restore 100 health if they have enough stamina.</text>
+  </tip>
+  <tip link="">
+    <text>In a strategic game you should always explore as quickly as possible.</text>
+  </tip>
+  <tip link="">
+    <text>In a strategic game you should keep the population of your stronghold at maximum to get the most gold.</text>
+  </tip>
+  <tip link="">
+    <text>Researching Free Beer and Nordic Trade Routes in the Tavern is a good start with the Gauls.</text>
+  </tip>
+  <tip link="">
+    <text>Calling a few Enchantresses at the beginning of a game will help you get an advantage while playing as an Iberian.</text>
+  </tip>
+  <tip link="">
+    <text>Combining Principles with Priests is a good idea if you're playing as a Roman.</text>
+  </tip>
+  <tip link="">
+    <text>Use all outposts and other structures around your stronghold to your advantage.</text>
+  </tip>
+  <tip link="">
+    <text>The Egyptian priest and swordsman can cause a target to lose all of its stamina with just a single hit.</text>
+  </tip>
+  <tip link="">
+    <text>Upgrading the Carthaginian research Spoils of War will allows warriors to collect spoils of war worth 100 gold from each enemy they've killed.</text>
+  </tip>
+  <tip link="">
+    <text>Some Germans units have the special ability Attack focus which helps them battle more experienced enemies.</text>
+  </tip>
+  <tip link="/contents/buildings/RTavern">
+    <text>Once by game, you can research Tribute in the Tavern which gathers 1000 gold in each outpost you own.</text>
+  </tip>
+  <tip link="/contents/items">
+    <text>There are many item holders where valuable items respawn. Check them at every occasion.</text>
+  </tip>
+  <tip link="/contents/items">
+    <text>To use an item carried by a warrior, double-click or Ctrl-click on it.</text>
+  </tip>
+  <tip link="/contents/units/GDruid">
+    <text>Upgrade Gaul Druids in the Druid House so they can summon fearsome Ghouls in battle.</text>
+  </tip>
+  <tip link="/contents/units/CShaman">
+    <text>Upgrade Carthaginian Shamans in the temple so they turn into fearsome Ghouls when they die.</text>
+  </tip>
+</tips>

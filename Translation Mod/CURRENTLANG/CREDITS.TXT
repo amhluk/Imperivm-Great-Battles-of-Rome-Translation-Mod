@@ -1,0 +1,455 @@
+﻿
+Translation Mod By Jdf335 and Haemimont Games (from Nemesis of the Roman Empire)
+
+
+HAEMIMONT 
+GAMES
+
+
+
+
+DISEÑADOR DEL JUEGO
+
+Gabriel Dobrev
+
+
+
+PROGRAMADORES
+
+Ivaylo Todorov
+
+
+
+ARTE
+
+Peter Stanimirov
+
+
+
+PRODUCCIÓN
+
+Gabriel Dobrev
+Antonio Lucena Ferrero
+
+
+
+PROGRAMACIÓN
+
+Alexander "Mordred" Andonov
+Dimo Zaprianov
+Georgi Georgiev
+Ivan-Assen Ivanov
+Ivko Stanilov
+Luchezar "Lucho" Belev
+Maria Stanilova
+Michael "Miho" Peykov
+Sergei "Zemedelec" Miloikov
+
+
+
+PROGRAMACIÓN ADICIONAL
+
+Alexander "Alex III" Alexandrov
+Danko Jordanov
+Krassimir "Kastchei" Tuevski
+Nikolay Georgiev
+Panayot "Otto" Yanazov
+
+
+
+ARTISTAS
+
+Angel "Gele" Stoianov
+Biser "Bobby" Parashkevov
+Dimitar Nikolov
+Dimitar "Chrom" Tzvetanov
+Dimitar "Lanternman" Tzvetanov
+Evgeni Jordanov
+George "Calader" Simeonov
+George "Yo" Stanimirov
+Kosta "Jovi" Atanasov
+Krasimir Nechevski
+Nelson "Atmos" Inomvan
+Viktor "PK" Asparuhov
+Vladimir "SNU" Stanimirov
+
+
+
+ARTE ADICIONAL
+
+Simo Sokerov
+
+
+
+ARGUMENTO Y DISEÑO DE NIVELES
+
+Bozhidar "Bave" Grozdanov
+Dimiter "Sedmi" Georgiev
+Ivan "Vani" Stoianov
+Konstantin "Balrog" Grozev
+Svetoslav "SAA" Alexandrov
+
+
+
+MÚSICA
+
+Tsvetomir Hristov
+
+
+
+SONIDO Y EFECTOS DE SONIDO
+
+Tsvetomir Hristov
+
+
+
+VIDEOS
+
+Nacho Ruiz
+Félix Ruiz
+
+
+
+TESTEO HAEMIMONT GAMES
+
+Kiril Iliev
+
+
+
+TESTEO FX INTERACTIVE
+
+Eduardo Báez
+
+
+
+RELACIONES PÚBLICAS
+
+Kiril Iliev
+
+
+
+PÁGINA WEB
+
+Alexander "Mordred" Andonov
+Kiril Iliev
+
+
+
+
+VERSIÓN ESPAÑOLA
+
+
+
+IMPLEMENTACIÓN DE LA LOCALIZACIÓN
+
+Fernando Conde
+
+
+
+TESTEO ADICIONAL
+
+Fernando Fernández González
+Jesús Martínez
+Manuel Moreno
+Matteo Caccialanza
+Stefano Griffini
+
+
+
+DOBLAJE
+
+Estudios EXA, Madrid
+
+
+
+VOCES
+
+Antonio Galvez
+Carlos Ysbert
+Conchi Lopez
+Eduardo del Hoyo
+Iñaki Crespo
+José Ángel Juanes
+Javier Martínez
+Pablo Adan
+Manuel Bellido
+Pedro Tena
+Rosa Sánchez
+
+
+
+DIRECTORA DE DOBLAJE
+
+Rosa Sánchez
+
+
+
+MANUAL
+
+Pablo Aranda
+Renata Forteleoni
+
+
+
+MAQUETACIÓN DEL MANUAL
+
+Ismael Garduño
+
+
+
+DISEÑO GRÁFICO PACKAGE
+
+Dimas Fernández
+
+
+
+GRÁFICOS ADICIONALES
+
+Nacho Ruiz
+
+
+
+IMAGEN DE LA PORTADA Y BUSTOS
+
+Kóveck
+
+
+
+
+GRACIAS ESPECIALES A:
+
+Pablo de la Nuez
+Jay Powell
+
+
+
+BETA-TESTING VERSIÓN GAMESPY
+
+Federico Alfonso Saurí Martínez
+Borja Peralvo Hernández
+Alejandro López Díaz
+Pablo Sabater Comas
+Alberto González Guerra
+César Labrandero Marcelo
+Roberto Alcusa Aguilar
+Francisco Vázquez Moreiras
+Jesús Ángel Alcusa Aguilar
+Mario Oliván Tenorio
+Angel Luis Claveras Piñero
+Carlos Collado Cabrera
+Roberto Martín Díez
+Carlos Manuel Rita Getrudes
+David García Izquierdo
+José Javier Pontes Micó
+José Enrique García
+Antonio Urtasun Villanueva
+Guillem Carbonell García
+José Estany Garea
+José Miralles Vicente
+David Fraboulet Torres
+Ernesto Paño Pinilla
+José Herrero Caba
+Jesús García García
+Guillermo Bayo Alegre
+Carlos Rodríguez Caminero
+David Bueno Vallejo
+Marcos Piñeiro Fernández
+María Ángeles Nasarre Pérez
+Javier Blasco González
+Víctor Manuel Santos Santos
+Víctor Manuel González Bravo
+José Victoria López
+José María Lasso Frías
+Gonzalo Oliveros García
+Ignacio García Uriarte
+Jordi R. Puxench
+Marcos Castillo Toledo
+Javier Belenguer Faguás
+Rubén Orellana Galloso
+Antonio Berzosa Cabrales
+Andrés Calderón Otero
+Manuel García Quintana
+Ricardo Serrano Pelayo
+Mónica Sánchez García
+Xabier Obanos
+Rafa Esteban Martín
+Luis Antonio García García
+José Ignacio Sáez Suárez
+José Ignacio Calleja Soreasu
+Teodoro Fernández González
+Luis Aran Calvo
+Jose Manuel Timonet
+Jesús Javier Pina Casaos
+Luis Ortiz Luquero
+Yone Cisneros Aguirre
+Julián Gómez Fernández
+Ángel Andrés Cabañero Resta
+Francisco Jiménez Alonso
+Sandra Schattenberg
+Antonio Moya Ruz
+Cesar Beiztegui Saracibar
+Yolanda Santos Hernández
+Nuria López Carrascosa
+Angel Prieto Sánchez
+Antonio Daniel Quintana García
+Jesús Ignacio Morillo Ortega
+Pedro Romero Ortega
+José Luis Gómez Acosta
+Carlos de la Torre Juan
+Rafael R. Martínez Carrasco
+Paul Bogdan Ionescu
+Juan Viñolo Obejo
+Leopoldo Ferrer García-Junco
+Marina Artigas Pérez
+Ramón David Orts Fernández
+David Albo Núñez
+Antonio Solichero Roselló
+Jesús Angel Gallardo Pinilla
+Federico Tascón Mille
+Eduardo Thomas Pérez del Postigo
+Jorge Olivencia Cabrera
+Alejandro Cifuentes
+Daniel Muñoz Romero
+Marisa Alejandre Salat
+Luis Carlos Gargallo Martínez
+Daniel Lozano González
+José Manuel Segarra San Feliu
+ Virgilio Iglesias Labarta
+David Unió Miralles
+Emerenciano Manzano Esteso
+Ignacio Rebollo Berro
+Manuel Raya Coello
+Javier Martínez Piña
+Cristian Casablanca García
+Javier Estévez Jurado
+José Manuel García Ramírez
+José Luis Sánchez Sánchez
+Víctor Manuel Mandías Toledo
+Javier López Jimeno
+Antoni Nerin i Toboso
+Alberto Otero Mato
+Fernando Ruas Carrillo
+Ricardo Bullido Villalba
+Pedro Manuel Náñez Moreira
+Yolanda Ordóñez Rufat
+Raúl Ferrero Varona
+Jose Francisco Lopez Berjano
+Jose Alvaro Sañudo Díaz
+José Antonio Sanz Pérez
+Javier Díaz-Távora Amores
+Juan José Fernández Padilla
+Antonio Barbosa Crespo
+Florián Alejandro Orellana Ordóñez
+Víctor Fernández Fernández
+Miguel Ángel Cruz
+José Antonio Corral López
+Manuel Rodríguez Viñas
+Alberto Rubio Aguilar
+Isidro Quiroga Alves
+Ángel Jaime Encabo Moreno
+Manuel Suárez González
+José Francisco Morlesin Collado
+Alberto Martín Pascual
+Gerardo García
+Ricardo Zapatero Herrero
+Mateo Ruiz López
+José Antonio Fuentes Santiago
+Raúl Tudela Romero
+Carlos Beltrá
+Héctor Román Salazar López
+Jorge de la Fuente Zurdo
+Jorge Moreno Pérez
+Pablo Rubio Prestel
+Roger Argemí Montoliu
+Alfredo Filardo Balbás
+Ramón Castillo Rodríguez
+Ricardo Bullido Villalba
+Javier Portela Lemos
+Maria del Mar Garza Náñez
+Carlos Fernandez Ponce
+Juan José Barroso Andréu
+Jonathan Calvo Rueda
+David Montejo Herrero
+Sergio David Melero Heredia
+Tobías Plangger
+Xabier Berben Bujan
+Marco Antonio Montes Andrade
+Fernando Jesús Romero Muñoz
+Lorenzo Medina García
+Francisco Javier Jiménez Hidalgo
+Adam Hernández Tosas
+Francisco Javier Visanzay Coscolin
+Andrés Quintana Gorrera
+Cristian González Rodríguez
+Ricardo Arroyo Alonso
+Jordi Zafra Alcaine
+Manuel Alonso Fernández
+Daniel Blas Amodei
+Ana Belén Guirado Marín
+Juan Francisco Aguado Lara
+Antonio García Rodríguez
+Ignacio Alonso Neila
+Javier Coso Prada
+Jesús Antonio Herrero Puras
+Carlos Alabau Herreras
+Juan José Carmona Fornell
+Alejandro de la Puente Caballero
+Juan José López Ordóñez
+Basilio Javier Blaya Alcobas
+José Antonio Prada García
+Roberto Paredes Huerta
+Rafael Iglesias Hernández-Córdoba
+Sergio Iglesias Fernández
+Jorge Manuel Blanco Fernández
+Mª José Pernía Toca
+Juan José Camino Irazusta
+José Luis Muñoz de las Heras
+Fernando Hernández Sánchez
+José Antonio Sastre García-Asenjo
+José Antonio Cuervo García
+Gustavo Muñoz Crespo
+José María Pazos Álvarez
+Daniel Pérez Pérez
+Adrián Ayala Gómez
+Karmelo Alberdi Onraita
+Antonio Castro Balbuena
+Joaquín Charcos González
+David Martínez Ureta
+Ignacio García Rojas
+Enrique Ventosa Fontela
+Isaac González Sordé
+Juan Manuel Durán Bolado
+Javier Prófumo López
+Roberto García Valverde
+Ester Varella Cerdá
+Andrés Orta Bautista
+César Vicente Bueno
+David Sánchez de la Llave
+Iván Estévez Sabucedo
+Adrián Ordóñez Machuca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright (c) 2000-2004 Haemimont Games, Sofia, Bulgaria.
+
+
+
+
+
+
