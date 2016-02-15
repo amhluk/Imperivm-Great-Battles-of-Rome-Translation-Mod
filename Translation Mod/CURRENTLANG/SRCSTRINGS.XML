@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translationtable>
+	<translationtableentry text="Random map@gametype" context="gametype" justtext="Random map" comment="" result="Random map"/>
+	<translationtableentry text="Custom map@gametype" context="gametype" justtext="Custom map" comment="" result="Custom map"/>
+	<translationtableentry text="Default@gold" context="gold" justtext="Default" comment="" result="Default"/>
+	<translationtableentry text="Low@population" context="population" justtext="Low" comment="" result="Low"/>
+	<translationtableentry text="Normal@population" context="population" justtext="Normal" comment="" result="Normal"/>
+	<translationtableentry text="High@population" context="population" justtext="High" comment="" result="High"/>
+	<translationtableentry text="Spring@season" context="season" justtext="Spring" comment="" result="Spring"/>
+	<translationtableentry text="Autumn@season" context="season" justtext="Autumn" comment="" result="Autumn"/>
+	<translationtableentry text="Winter@season" context="season" justtext="Winter" comment="" result="Winter"/>
+	<translationtableentry text="Slow@speed" context="speed" justtext="Slow" comment="" result="Slow"/>
+	<translationtableentry text="Normal@speed" context="speed" justtext="Normal" comment="" result="Normal"/>
+	<translationtableentry text="Fast@speed" context="speed" justtext="Fast" comment="" result="Fast"/>
+	<translationtableentry text="Fastest@speed" context="speed" justtext="Fastest" comment="" result="Fastest"/>
+	<translationtableentry text="Variable@speed" context="speed" justtext="Variable" comment="" result="Variable"/>
+	<translationtableentry text="Small@sizefilter" context="sizefilter" justtext="Small" comment="" result="Small"/>
+	<translationtableentry text="Normal@sizefilter" context="sizefilter" justtext="Normal" comment="" result="Normal"/>
+	<translationtableentry text="Huge@sizefilter" context="sizefilter" justtext="Huge" comment="" result="Huge"/>
+	<translationtableentry text="All@sizefilter" context="sizefilter" justtext="All" comment="" result="All)"/>
+	<translationtableentry text="Small@mapsize" context="mapsize" justtext="Small" comment="" result="Small"/>
+	<translationtableentry text="Normal@mapsize" context="mapsize" justtext="Normal" comment="" result="Normal"/>
+	<translationtableentry text="Huge@mapsize" context="mapsize" justtext="Huge" comment="" result="Huge"/>
+	<translationtableentry text="unknown@race" context="race" justtext="unknown" comment="" result="unknown"/>
+	<translationtableentry text="random@race" context="race" justtext="random" comment="" result="random"/>
+	<translationtableentry text="Gaul@race" context="race" justtext="Gaul" comment="" result="Gaul"/>
+	<translationtableentry text="Roman@race" context="race" justtext="Roman" comment="" result="Roman"/>
+	<translationtableentry text="None@team" context="team" justtext="None" comment="" result="None"/>
+	<translationtableentry text="Team 1@team" context="team" justtext="Team 1" comment="" result="Team 1"/>
+	<translationtableentry text="Team 2@team" context="team" justtext="Team 2" comment="" result="Team 2"/>
+	<translationtableentry text="Team 3@team" context="team" justtext="Team 3" comment="" result=Team 3"/>
+	<translationtableentry text="Team 4@team" context="team" justtext="Team 4" comment="" result="Team 4"/>
+	<translationtableentry text="Rank@infolist" context="infolist" justtext="Rank" comment="" result="Rank"/>
+	<translationtableentry text="Single player games@infolist" context="infolist" justtext="Single player games" comment="" result="Single player games"/>
+	<translationtableentry text="Multiplayer games@infolist" context="infolist" justtext="Multiplayer games" comment="" result="Multiplayer games"/>
+	<translationtableentry text="Game time@infolist" context="infolist" justtext="Game time" comment="" result="Game time"/>
+	<translationtableentry text="Favorite nation@infolist" context="infolist" justtext="Favorite nation" comment="" result="Favorite nation"/>
+	<translationtableentry text="Favorite unit@infolist" context="infolist" justtext="Favorite unit" comment="" result="Favorite unit"/>
+	<translationtableentry text="Resources spent@infolist" context="infolist" justtext="Resources spent" comment="" result="Resources spent"/>
+	<translationtableentry text="Units eliminated@infolist" context="infolist" justtext="Units eliminated" comment="" result="Units eliminated"/>
+	<translationtableentry text="Units lost@infolist" context="infolist" justtext="Units lost" comment="" result="Units lost"/>
+	<translationtableentry text="Health spent for rituals@infolist" context="infolist" justtext="Health spent for rituals" comment="" result="Health spent for rituals"/>
+	<translationtableentry text="Most experienced unit@infolist" context="infolist" justtext="Most experienced unit" comment="" result="Most experienced unit"/>
+	<translationtableentry text="Maximum number of units@infolist" context="infolist" justtext="Maximum number of units" comment="" result="Maximum number of units"/>
+	<translationtableentry text="Unknown@maxunits" context="maxunits" justtext="Unknown" comment="" result="Unknown"/>
+	<translationtableentry text="Level@maxlevel" context="maxlevel" justtext="Level" comment="" result="Level"/>
+	<translationtableentry text="hours@infolist" context="infolist" justtext="Hours" comment="" result="Hours"/>
+	<translationtableentry text="military rating" comment="" result="(translate)"/>
+	<translationtableentry text="food" comment="" result="(translate)"/>
+	<translationtableentry text="gold" comment="" result="(translate)"/>
+	<translationtableentry text="won" comment="" result="(translate)"/>
+	<translationtableentry text="The game instances have become inconsistent." result="(translate)"/>
+	<translationtableentry text="noname" comment="default player profile name" result="(translate)"/>
+	<translationtableentry text="autosave" comment="name of the auto-savegame; must be a valid filename" result="(translate)"/>
+	<translationtableentry text="Adventure Palette@editor" context="editor" justtext="Adventure Palette" comment="" result="Adventure Palette"/>
+	<translationtableentry text="Scenario Palette@editor" context="editor" justtext="Scenario Palette" comment="" result="Scenario Palette"/>
+	<translationtableentry text="Do you realy want to delete both sides of this cave?@editor" context="editor" justtext="Do you realy want to delete both sides of this cave?" comment="" result="Do you realy want to delete both sides of this cave?"/>
+	<translationtableentry text="Do you realy want to delete this townhall and the whole settlement?@editor" context="editor" justtext="Do you realy want to delete this townhall and the whole settlement?" comment="" result="Do you realy want to delete this townhall and the whole settlement?"/>
+	<translationtableentry text="(New group)@editor" context="editor" justtext="(New group)" comment="" result="(New group)"/>
+	<translationtableentry text="(Unnamed)@editor" context="editor" justtext="(Unnamed)" comment="" result="(Unnamed)"/>
+	<translationtableentry text="New note@editor" context="editor" justtext="New note" comment="" result="New note"/>
+	<translationtableentry text="New sequence@editor" context="editor" justtext="New sequence" comment="" result="New sequence"/>
+	<translationtableentry text="New item type@editor" context="editor" justtext="New item type" comment="" result="New item type"/>
+	<translationtableentry text="Named units@editor" context="editor" justtext="Named units" comment="" result="Named units"/>
+	<translationtableentry text="Items@editor" context="editor" justtext="Items" comment="" result="items"/>
+	<translationtableentry text="Scenario@editor" context="editor" justtext="Scenario" comment="" result="Scenario"/>
+	<translationtableentry text="Players diplomacy@editor" context="editor" justtext="Players diplomacy" comment="" result="Players diplomacy"/>
+	<translationtableentry text="Area properties@editor" context="editor" justtext="Area properties" comment="" result="Area properties"/>
+	<translationtableentry text="Items@editor" context="editor" justtext="Items" comment="" result="items"/>
+	<translationtableentry text="Settlements@editor" context="editor" justtext="Settlements" comment="" result="(translate)"/>
+	<translationtableentry text="Item types@editor" context="editor" justtext="Item types" comment="" result="(translate)"/>
+	<translationtableentry text="Custom@editor" context="editor" justtext="Custom" comment="item name add-on" result="(translate)"/>
+	<translationtableentry text="Customized@editor" context="editor" justtext="Customized" comment="item name add-on" result="(translate)"/>
+	<translationtableentry text="Standard@editor" context="editor" justtext="Standard" comment="item name add-on" result="(translate)"/>
+	<translationtableentry text="%s1 (Hotkey : %s2)" result="(translate)"/>
+	<translationtableentry text="Bad conversation startup string@conv" context="conv" justtext="Bad conversation startup string" result="(translate)"/>
+	<translationtableentry text="Select a location to use the item on" result="(translate)"/>
+	<translationtableentry text="Select an object to use the item with" result="(translate)"/>
+	<translationtableentry text="Replay" result="(translate)" comment="end game dialog"/>
+	<translationtableentry text="You lose" result="(translate)" comment="end game dialog"/>
+	<translationtableentry text="You win" result="(translate)" comment="end game dialog"/>
+	<translationtableentry text="This replay is in invalid format and cannot be loaded. It has probably been saved with a different version of the game!" result="(translate)" comment="error message"/>
+	<translationtableentry text="Do you really want to restart?" result="(translate)" comment="message box"/>
+	<translationtableentry text="Do you really want to surrender?" result="(translate)" comment="message box"/>
+	<translationtableentry text="Do you really want to quit?" result="(translate)" comment="message box"/>
+	<translationtableentry text="Give item to this unit" result="(translate)" comment="rollover when dragging item"/>
+	<translationtableentry text="Put item in holder" result="(translate)" comment="rollover when dragging item"/>
+	<translationtableentry text="Drop item on the ground" result="(translate)" comment="rollover when dragging item"/>
+	<translationtableentry text="The game was canceled by the host" result="(translate)" comment="message box"/>
+	<translationtableentry text="You were kicked from the game" result="(translate)" comment="message box"/>
+	<translationtableentry text="Cannot join game - different protocol version" result="(translate)" comment="message box"/>
+	<translationtableentry text="Map Default" result="(translate)" comment=""/>
+	<translationtableentry text="Description: %s1" result="(translate)" comment=""/>
+	<translationtableentry text="Map description: %s1" result="(translate)" comment=""/>
+	<translationtableentry text="Unnamed@advarea" result="(translate)" comment="unnamed adventure area"/>
+	<translationtableentry text="Unnamed@advitemholder" result="(translate)" comment="unnamed adventure item holder"/>
+	<translationtableentry text="Players diplomacy/@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Players/@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Delete decorations@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Selecting object(s)@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Object: [ None ]@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Object: [ %s1 ]" result="(translate)" comment=""/>
+	<translationtableentry text="Structures@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Gaul@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Rome@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Place the other side of the cave@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Development score@score" result="(translate)" comment=""/>
+	<translationtableentry text="Military score@score" result="(translate)" comment=""/>
+	<translationtableentry text="Power score@score" result="(translate)" comment=""/>
+	<translationtableentry text="Overall score@score" result="(translate)" comment=""/>
+	<translationtableentry text="Minimap" result="(translate)" comment="window title"/>
+	<translationtableentry text="Searching for games...@lobby" result="(translate)" comment=""/>
+	<translationtableentry text="Units@selection" result="(translate)" comment=""/>
+	<translationtableentry text="Buildings@selection" result="(translate)" comment=""/>
+	<translationtableentry text="Left click to place" result="(translate)"/>
+	<translationtableentry text="Object has no entity@editor" result="(translate)"/>
+	<translationtableentry text="Object is out of map@editor" result="(translate)"/>
+	<translationtableentry text="Object must be placed on deep water@editor" result="(translate)"/>
+	<translationtableentry text="Buildings cannot be placed on water@editor" result="(translate)"/>
+	<translationtableentry text="Units cannot be placed on deep water@editor" result="(translate)"/>
+	<translationtableentry text="Object is on impassable@editor" result="(translate)"/>
+	<translationtableentry text="Building is on impassable@editor" result="(translate)"/>
+	<translationtableentry text="Building points are on impassable@editor" result="(translate)"/>
+	<translationtableentry text="Building points are on impassable@editor" result="(translate)"/>
+	<translationtableentry text="Building is too near to existing settlement@editor" result="(translate)"/>
+	<translationtableentry text="Building is too far away from any existing settlement@editor" result="(translate)"/>
+	<translationtableentry text="You have made changes which are not saved. Do you want to save the map?@editor" result="(translate)" comment=""/>
+	<translationtableentry text="Do you want to save the changes?" result="(translate)" comment=""/>
+	<translationtableentry text="Player %d1" result="(translate)" comment="editor tree"/>
+	<translationtableentry text="Object: [ %s1 ]" result="(translate)" comment="default tool window"/>
+	<translationtableentry text="%s1 at (%d2, %d3)" result="(translate)" comment="object type/position in group dialog"/>
+	<translationtableentry text="Objects in group: %d1" result="(translate)" comment="group dialog"/>
+	<translationtableentry text="Mode: %s1, Size: %d2, %s3: %d4" result="(translate)" comment="height brush"/>
+	<translationtableentry text="Mode: %s1, Size: %d2" result="(translate)" comment="height brush"/>
+	<translationtableentry text="Auto" result="(translate)" comment="wall placement tool"/>
+	<translationtableentry text="%s1 (%d2 / %d3)" result="(translate)" comment=""/>
+	<translationtableentry text="(Unnamed)@objprops" result="(translate)" comment="object properties dialog"/>
+	<translationtableentry text="%s1  in %s2 at (%d3, %d4)" result="(translate)" comment="object properties dialog"/>
+	<translationtableentry text="Terrain [ %s1 ]" result="(translate)" comment="terrain name"/>
+	<translationtableentry text="Terrain type [ %s1 ]" result="(translate)" comment="terrain name"/>
+	<translationtableentry text="%s1 toggles the fog" result="(translate)" comment=""/>
+	<translationtableentry text="%s1 (Hotkey : %s2)" result="(translate)" comment="rollover"/>
+	<translationtableentry text="(%d1 gold)\n%s2" result="(translate)" comment="rollover; s3 is description"/>
+	<translationtableentry text="(%d1 food)\n%s2" result="(translate)" comment=""/>
+	<translationtableentry text="Player %s1 lost the game" result="(translate)" comment=""/>
+	<translationtableentry text="Your hero %s1 has reached level %d2" result="(translate)" comment=""/>
+	<translationtableentry text="Player %d1" result="(translate)" comment=""/>
+	<translationtableentry text="%s1 paused the game" result="(translate)" comment=""/>
+	<translationtableentry text="%s1 unpaused the game" result="(translate)" comment=""/>
+	<translationtableentry text="%s1 (level %d2)" result="(translate)" comment="%s1 is name of hero"/>
+	<translationtableentry text="One %s1" result="(translate)" comment="%s1 is unit/hero class"/>
+	<translationtableentry text="%d1 %s2" result="(translate)" comment="%s2 is unit/hero class"/>
+	<translationtableentry text="easy@ai" result="(translate)" comment="ai strength"/>
+	<translationtableentry text="medium@ai" result="(translate)" comment="ai strength"/>
+	<translationtableentry text="hard@ai" result="(translate)" comment="ai strength"/>
+	<translationtableentry text="Limit: %s1\n" result="(translate)" comment=""/>
+	<translationtableentry text="Random map: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Map size: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Victory: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="World pop: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Starting gold: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Game speed: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Map: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Exploration: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Fog of war: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Shared control: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Shared support: %s1" result="(translate)" comment="game summary in main menu"/>
+	<translationtableentry text="Yes" result="(translate)" comment="appears after 'Exploration', 'Fog of war', etc."/>
+	<translationtableentry text="No" result="(translate)" comment="appears after 'Exploration', 'Fog of war', etc."/>
+	<translationtableentry text="Caves" result="(translate)" comment="game summary"/>
+	<translationtableentry text="Teuton tents" result="(translate)" comment="game summary"/>
+	<translationtableentry text="Stonehenges" result="(translate)" comment="game summary"/>
+	<translationtableentry text="Ruins" result="(translate)" comment="game summary"/>
+	<translationtableentry text="Outposts" result="(translate)" comment="game summary"/>
+	<translationtableentry text="Additional villages" result="(translate)" comment="game summary"/>
+	<translationtableentry text="Additional strongholds" result="(translate)" comment="game summary"/>
+	<translationtableentry text="Enabled" result="(translate)" comment="appears after 'Caves', 'Teuton Tents', etc."/>
+	<translationtableentry text="Disabled" result="(translate)" comment="appears after 'Caves', 'Teuton Tents', etc."/>
+	<translationtableentry text="Empty" result="(translate)" comment="slot w/o player in pre-game interface"/>
+	<translationtableentry text="Raise/lower" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Smooth" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Set height" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="level" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="amount" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Place circular area@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Place rectangular area@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Edit areas@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Tools@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Decorations@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Height change@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Raise/lower@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Airbrush@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Noisebrush@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Smooth@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Set height@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Terrains@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Edit objects@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Place Objects@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Area@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Height@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Gaul Wood Walls@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Roman Stone Walls@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Grass@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Ground@editortree" result="(translate)" comment="editor tool"/>
+	<translationtableentry text="Can't place" result="(translate)" comment="editor message"/>
+	<translationtableentry text="Not enough memory to complete the operation." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Generic read failure." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Generic write failure." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Operation passed the end of file." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Bad open mode." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Cannot truncate file." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Too many open files." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Bad volume." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Unknown PID." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="File sharing error." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Cannot flush file." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="No more files." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Not ready." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Seek fail. This may be caused by a corrupt savegame file." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="The specified file cannot be found. Check the spelling." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Bad file format. This may be caused by a corrupt savegame file." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Cannot open file. This may be caused by a corrupt savegame file." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="The specified path cannot be found. Check the spelling." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Access to this file was denied." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="A file with the same name already exists and cannot be overwritten." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="The specified disk volume cannot be found." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="The file is write protected and cannot be overwritten." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="The specified disk is full. Free more space and try again." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="A file with the specified name already exists." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="The specified file name and/or path is invalid." result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="The map you played this game on when the game was saved (%s1) is missing or has been changed" result="(translate)" comment="error message when saving or loading game"/>
+	<translationtableentry text="Error saving scenario/adventure file" result="(translate)" comment=""/>
+	<translationtableentry text="Error saving game" result="(translate)" comment=""/>
+	<translationtableentry text="Error loading scenario/adventure file" result="(translate)" comment=""/>
+	<translationtableentry text="Error loading game" result="(translate)" comment=""/>
+	<translationtableentry text="Do you want to replace the existing file '%s1'?" result="(translate)" comment="editor message"/>
+	<translationtableentry text="Do you really want to lose your current map and replace it with a randomly generated one" result="(translate)" comment="editor message"/>
+	<translationtableentry text="Random map generation failed - bad map template" result="(translate)" comment=""/>
+	<translationtableentry text="Select an inn to visit or rightclick to cancel." result="(translate)" comment=""/>
+	<translationtableentry text="You won." result="(translate)" comment=""/>
+	<translationtableentry text="Game saved." result="(translate)" comment=""/>
+	<translationtableentry text="Game loaded." result="(translate)" comment=""/>
+	<translationtableentry text="New conversation" result="(translate)" comment=""/>
+	<translationtableentry text="Delete this saved game?" result="(translate)" comment=""/>
+	<translationtableentry text="quicksave" result="(translate)" comment=""/>
+	<translationtableentry text="Display name" result="(translate)" comment=""/>
+	<translationtableentry text="Select a location to use the item on" result="(translate)" comment="Prompt when using item"/>
+	<translationtableentry text="Select an object to use the item with" result="(translate)" comment="Prompt when using item"/>
+	<translationtableentry text="Before testing, the map must be saved. Do you want to save the map?" result="(translate)"/>
+	<translationtableentry text="Game time: %s1:%s2:%s3" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Gold production" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="From strongholds" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="From outposts" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Captured" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Scores" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Military" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Development" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Overall" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Units" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Killed" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Lost" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Maximum" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Resources" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Gold spent" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Food spent" result="(translate)" comment="post-game statistics screen"/>
+	<translationtableentry text="Waiting for player %s1 (%d2)" result="(translate)" comment="when one of the players on the network is missing"/>
+	<translationtableentry text="Player %s1 dropped\n" result="(translate)" comment="network problems"/>
+	<translationtableentry text="different game version" result="(translate)" comment="comment for a network game that is with a different version"/>
+	<translationtableentry text="Please insert the Celtic Kings - Rage of War CD!" result="(translate)" comment="the cd check at the beginning of the game"/>
+	<translationtableentry text="You don't have the map file '%s1.bfhp' and can't participate in this game." result="(translate)" comment="error message"/>
+	<translationtableentry text="Error when launching GameSpy" result="(translate)" comment=""/>
+	<!-- additions after 1.00.10 -->
+	<translationtableentry text="Easy@Adventure difficulty level" context="Adventure difficulty level" justtext="Easy" result="(translate)" comment=""/>
+	<translationtableentry text="Normal@Adventure difficulty level" context="Adventure difficulty level" justtext="Normal" result="(translate)" comment=""/>
+	<translationtableentry text="Hard@Adventure difficulty level" context="Adventure difficulty level" justtext="Hard" result="(translate)" comment=""/>
+	<translationtableentry text="Overwrite this file?" result="(translate)" comment=""/>
+	<translationtableentry text="This inn (%s1) is closed." result="(translate)" comment=""/>
+	<translationtableentry text="Click to visit this inn (%s1)." result="(translate)" comment=""/>
+	<translationtableentry text="Click this inn (%s1) to cancel." result="(translate)" comment=""/>
+	<translationtableentry text="Wind of wisdom" result="(translate)" comment=""/>
+	<translationtableentry text="Starvation" result="(translate)" comment=""/>
+	<translationtableentry text="Golden rain" result="(translate)" comment=""/>
+	<translationtableentry text="Death wish" result="(translate)" comment=""/>
+	<translationtableentry text="Bloodlust" result="(translate)" comment=""/>
+	<translationtableentry text="Teuton uprising" result="(translate)" comment=""/>
+	<!-- additions 30 Jul, command params -->
+	<translationtableentry text="%s1 (requires Druid House ritual)" result="(translate)" comment=""/>
+	<translationtableentry text="%s1 (requires Temple ritual)" result="(translate)" comment=""/>
+	<translationtableentry text="Advanced Training" result="(translate)" comment=""/>
+	<translationtableentry text="Altar of Jupiter" result="(translate)" comment=""/>
+	<translationtableentry text="Archer equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Axeman equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Battle tactics" result="(translate)" comment=""/>
+	<translationtableentry text="Beast control" result="(translate)" comment=""/>
+	<translationtableentry text="Belts of Might" result="(translate)" comment=""/>
+	<translationtableentry text="Buy map" result="(translate)" comment=""/>
+	<translationtableentry text="Cloud of Plague" result="(translate)" comment=""/>
+	<translationtableentry text="Fastest warrior equipment complete" result="(translate)" comment=""/>
+	<translationtableentry text="Fights" result="(translate)" comment=""/>
+	<translationtableentry text="Food Tax" result="(translate)" comment=""/>
+	<translationtableentry text="Free Beer" result="(translate)" comment=""/>
+	<translationtableentry text="Free Wine" result="(translate)" comment=""/>
+	<translationtableentry text="Ghoul Summoning" result="(translate)" comment=""/>
+	<translationtableentry text="Gladiator equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Gladiator Shows" result="(translate)" comment=""/>
+	<translationtableentry text="Help Sacrifice" result="(translate)" comment=""/>
+	<translationtableentry text="Herb Amulets of Luck" result="(translate)" comment=""/>
+	<translationtableentry text="Horseman equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Import horses" result="(translate)" comment=""/>
+	<translationtableentry text="Invisibility" result="(translate)" comment=""/>
+	<translationtableentry text="Liberati guild" result="(translate)" comment=""/>
+	<translationtableentry text="Mass Heal" result="(translate)" comment=""/>
+	<translationtableentry text="Military Academy" result="(translate)" comment=""/>
+	<translationtableentry text="Nordic trade routes" result="(translate)" comment=""/>
+	<translationtableentry text="Praetorian equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Principle equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Ritual chamber" result="(translate)" comment=""/>
+	<translationtableentry text="Scout equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Shrine of Thor" result="(translate)" comment=""/>
+	<translationtableentry text="Spearman equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Special training" result="(translate)" comment=""/>
+	<translationtableentry text="Steel Weapons" result="(translate)" comment=""/>
+	<translationtableentry text="Training" result="(translate)" comment=""/>
+	<translationtableentry text="Woman Warrior equipment ready" result="(translate)" comment=""/>
+	<translationtableentry text="Wrath of Jupiter" result="(translate)" comment=""/>
+	<!-- 13.08.2002 emptyadv.bfhp & emptyscn.bfhp template translations -->
+	<translationtableentry text="Player %d1@map template" context="map template" justtext="Player %d1" result="(translate)" comment="Player names as read from the new map tepmlate"/>
+	<translationtableentry text="Template Scenario@map template" context="map template" justtext="Template Scenario" result="(translate)" comment="The name property from the new scenario template"/>
+	<translationtableentry text="Unknown Author@map template" context="map template" justtext="Unknown Author" result="(translate)" comment="The author property from the new scenario *OR* adventure template"/>
+	<translationtableentry text="Scenario Game@map template" context="map template" justtext="Scenario Game" result="(translate)" comment="The description property from the new scenario template"/>
+	<translationtableentry text="Template Adventure@map template" context="map template" justtext="Template Adventure" result="(translate)" comment="The name property from the new adventure template"/>
+	<translationtableentry text="Adventure Game@map template" context="map template" justtext="Adventure Game" result="(translate)" comment="The desccription property from the new adventure template"/>
+	<translationtableentry text="New Map@map template" context="map template" justtext="New Map" result="(translate)" comment="new map template (scenario OR adventure) gives this name to the default map"/>
+	<!-- 13.08.2002 Pause Toggled Message -->
+	<translationtableentry text="Pause toggled" context="" justtext="Pause toggled" result="(translate)" comment="network game message"/>
+	<!-- 14.08.2002 -->
+	<translationtableentry text="empty phrase" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Replay (finished)" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Compiled successfully" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Condition script compiled successfully" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Action script compiled successfully" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Return script compiled successfully" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Human" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Computer" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Both" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Rescue" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Adventure" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Scenario" context="" result="(translate)" comment=""/>
+	<translationtableentry text="Replay" context="" result="(translate)" comment=""/>
+	<translationtableentry text="choice@conv editor" context="conv editor" result="(translate)" comment=""/>
+	<translationtableentry text="random@conv editor" context="conv editor" result="(translate)" comment=""/>
+	<translationtableentry text="first@conv editor" context="conv editor" result="(translate)" comment=""/>
+	<translationtableentry text="cycle@conv editor" context="conv editor" result="(translate)" comment=""/>
+	<translationtableentry text="cycle then first@conv editor" context="conv editor" result="(translate)" comment=""/>
+	<translationtableentry text="cycle then random@conv editor" context="conv editor" result="(translate)" comment=""/>
+	<translationtableentry text="end@conv editor" context="conv editor" result="(translate)" comment=""/>
+	<translationtableentry text="food@short form" context="short form" result="(translate)" comment=""/>
+	<translationtableentry text="Size" comment="editor brush" result="(translate)"/>
+	<translationtableentry text="&lt;None&gt;" result="(translate)" comment=""/>
+	<translationtableentry text="Video Mode Unavailable" result="(translate)" comment=""/>
+	<translationtableentry text="Cannot switch to %d1 x %d2 video mode with 65536 colors. Try setting your Windows desktop resolution to this mode and launch the application again." result="(translate)" comment=""/>
+	<translationtableentry text="Sequences@editor" context="editor" justtext="Sequences" result="(translate)" comment=""/>
+	<translationtableentry text="Wooden walls" result="(translate)" comment=""/>
+	<translationtableentry text="Stone walls" result="(translate)" comment=""/>
+	<translationtableentry text="Debt" result="(translate)" comment=""/>
+	<translationtableentry text="Current map" result="(translate)"/>
+	<translationtableentry text="Stronghold" result="(translate)"/>
+	<translationtableentry text="Village" result="(translate)"/>
+	<translationtableentry text="Choice text:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Condition:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Action:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Return:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Comments:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Follow-up:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Follow-ups:" result="(translate)" comment="conversation editor"/>
+	<!--
+	
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+-->
+</translationtable>
+ry text="Action:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Return:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Comments:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Follow-up:" result="(translate)" comment="conversation editor"/>
+	<translationtableentry text="Follow-ups:" result="(translate)" comment="conversation editor"/>
+
+	
+	<!--
+	
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+	<translationtableentry text= result="(translate)" comment=""/>
+-->
+</translationtable>
